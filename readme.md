@@ -23,6 +23,9 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 - **A Deep Metric for Multimodal Registration** (arXiv, 2019), Lau et al., [arXiv](https://hal.archives-ouvertes.fr/hal-01576914/document)
 - **PCANet-Based Structural Representation forNonrigid Multimodal Medical Image Registration** (Sensors, 2019), Zhu et al., [pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5982469/pdf/sensors-18-01477.pdf)
 
+## Uncategorized
+- **Learning interpretable multi-modal features for alignment with supervised iterative descent** (MIDL, 2019),  Blendowski et al., [Open Review](https://openreview.net/forum?id=SkeI0-QelE)
+
 
 
 
