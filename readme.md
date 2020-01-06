@@ -66,6 +66,7 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 - [sight](https://github.com/IRCAD-IHU/sight)
 
 # Resources
+- [Converting niftynet to pytorch](https://github.com/fepegar/miccai-educational-challenge-2019/)
 
 ## Datasets
 
