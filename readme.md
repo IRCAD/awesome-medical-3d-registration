@@ -10,7 +10,8 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 - **Deep Learning in Medical Image Registration: A Review** (arXiv, 2019),Yabo Fu, Yang Lei, Tonghe Wang, Walter J. Curran, Tian Liu, Xiaofeng Yang, [pdf](https://arxiv.org/pdf/1912.12318.pdf)
 - **A Review on Medical Image Registration as an Optimization Problem** (Current Medical Imaging Reviews , 2017), Guoli Song et al., [RG](https://www.researchgate.net/publication/318610110_A_Review_on_Medical_Image_Registration_as_an_Optimization_Problem)
 
-
+## Unsupervised approaches
+- **Unsupervised 3D End-to-End Medical ImageRegistration with Volume Tweening Network** (Zeitschrift für Medizinische Physik, 2019), Lau et al., [arXiv](https://arxiv.org/abs/1902.05020)
 
 
 
