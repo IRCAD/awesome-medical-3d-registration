@@ -33,6 +33,11 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 - [Shawn Yuen's list](https://github.com/shawnyuen/DeepLearningInMedicalImagingAndMedicalImageAnalysis/)
 - [Awesome GANs in medical image analysis](https://github.com/xinario/awesome-gan-for-medical-imaging/)
 - [Duoduo Qian's medical image registration resources](https://github.com/Duoduo-Qian/Medical-image-registration-Resources/)
+- [sfikas's medical imaging datasets](https://github.com/sfikas/medical-imaging-datasets/)
+
+
+
+
 
 # Implementations of Classical Algorithms
 - [Airlab](https://github.com/airlab-unibas/airlab/)
