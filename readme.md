@@ -8,6 +8,11 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 - **An overview of deep learning in medical imaging focusing on MRI** (Zeitschrift für Medizinische Physik, 2019), Alexander Selvikvag Lundervoldab and Arvid Lundervold, [pdf](https://reader.elsevier.com/reader/sd/pii/S0939388918301181?token=4D2C90115CF69B553B7979FD3FD2BDDF60776B9A39BD975DAA8AC703537A0399511177F5FBBFDB10674350C768C604B9)
 - **Deep Learning in Medical Image Registration: A Survey** (arXiv, 2019), Grant Haskins, Uwe Kruger, Pingkun Yan, [pdf](https://arxiv.org/pdf/1903.02026.pdf)
 - **Deep Learning in Medical Image Registration: A Review** (arXiv, 2019),Yabo Fu, Yang Lei, Tonghe Wang, Walter J. Curran, Tian Liu, Xiaofeng Yang, [pdf](https://arxiv.org/pdf/1912.12318.pdf)
+- **A Review on Medical Image Registration as an Optimization Problem** (Current Medical Imaging Reviews , 2017), Guoli Song et al., [RG](https://www.researchgate.net/publication/318610110_A_Review_on_Medical_Image_Registration_as_an_Optimization_Problem)
+
+
+
+
 
 # Software
 - [PapersWithCode](https://paperswithcode.com/task/medical-image-registration/)
