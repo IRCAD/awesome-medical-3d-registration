@@ -26,13 +26,14 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 ## Uncategorized
 - **Learning interpretable multi-modal features for alignment with supervised iterative descent** (MIDL, 2019),  Blendowski et al., [Open Review](https://openreview.net/forum?id=SkeI0-QelE)
 
-
-
+# Other Collections
+- [Awesome Deep-Learning-for-Medical-Applications (https://github.com/albarqouni/Deep-Learning-for-Medical-Applications/)
+- [PapersWithCode: Medical Image registration](https://paperswithcode.com/task/medical-image-registration/)
+- [PapersWithCode: Image registration](https://paperswithcode.com/task/image-registration/)
 
 
 # Software
-- [PapersWithCode: Medical Image registration](https://paperswithcode.com/task/medical-image-registration/)
-- [PapersWithCode: Image registration](https://paperswithcode.com/task/image-registration/)
+
 ## FOSS Applications
 
 - [Inviwo](https://inviwo.org/)
