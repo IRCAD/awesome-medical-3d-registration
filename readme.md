@@ -1,9 +1,13 @@
-# Awesome Direct Volume Rendering
+# Awesome 3D Medical Image Registration
 
-A curated list of awesome Direct Volume Rendering articles, software and resources.
+A curated list of awesome 3D medical image registration algorithms, articles, software and resources.
 
 
 # Articles
+## Literature Reviews
+- **An overview of deep learning in medical imaging focusing on MRI** (Zeitschrift für Medizinische Physik, 2019), Alexander Selvikvag Lundervoldab and Arvid Lundervold, [pdf](https://reader.elsevier.com/reader/sd/pii/S0939388918301181?token=4D2C90115CF69B553B7979FD3FD2BDDF60776B9A39BD975DAA8AC703537A0399511177F5FBBFDB10674350C768C604B9)
+
+
 
 ## Fundamentals
 
