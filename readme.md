@@ -34,9 +34,12 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 - [Awesome GANs in medical image analysis](https://github.com/xinario/awesome-gan-for-medical-imaging/)
 - [Duoduo Qian's medical image registration resources](https://github.com/Duoduo-Qian/Medical-image-registration-Resources/)
 
-# Software
+# Implementations of Classical Algorithms
 - [Airlab](https://github.com/airlab-unibas/airlab/)
 
+# Implementations of Deep Learning Algorithms
+- [label-reg](https://github.com/YipengHu/label-reg/)
+- [pdd_net](https://github.com/multimodallearning/pdd_net/)
 
 
 ## FOSS Applications
