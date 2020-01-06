@@ -13,8 +13,7 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 
 ## Unsupervised approaches
 - **Unsupervised 3D End-to-End Medical ImageRegistration with Volume Tweening Network** (arXiv, 2019), Lau et al., [arXiv](https://arxiv.org/abs/1902.05020)
-- **
-Deformable Medical Image Registration Using a Randomly-Initialized CNN as Regularization Prior ** (MILD, 2019), Laves et al., [Open Review](https://openreview.net/forum?id=S1ehZFQ15E)
+- **Deformable Medical Image Registration Using a Randomly-Initialized CNN as Regularization Prior ** (MILD, 2019), Laves et al., [Open Review](https://openreview.net/forum?id=S1ehZFQ15E)
 
 
 # Software
