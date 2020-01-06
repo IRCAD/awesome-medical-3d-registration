@@ -9,10 +9,8 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 - **Deep Learning in Medical Image Registration: A Survey** (arXiv, 2019), Grant Haskins, Uwe Kruger, Pingkun Yan, [pdf](https://arxiv.org/pdf/1903.02026.pdf)
 - **Deep Learning in Medical Image Registration: A Review** (arXiv, 2019),Yabo Fu, Yang Lei, Tonghe Wang, Walter J. Curran, Tian Liu, Xiaofeng Yang, [pdf](https://arxiv.org/pdf/1912.12318.pdf)
 
-
-
 # Software
-
+- [PapersWithCode](https://paperswithcode.com/task/medical-image-registration/)
 ## FOSS Applications
 
 - [Inviwo](https://inviwo.org/)
