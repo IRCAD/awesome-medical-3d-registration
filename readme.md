@@ -14,6 +14,17 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 ## Unsupervised approaches
 - **Unsupervised 3D End-to-End Medical ImageRegistration with Volume Tweening Network** (arXiv, 2019), Lau et al., [arXiv](https://arxiv.org/abs/1902.05020)
 - **Deformable Medical Image Registration Using a Randomly-Initialized CNN as Regularization Prior** (MILD, 2019), Laves et al., [Open Review](https://openreview.net/forum?id=S1ehZFQ15E)
+- **Deformable Medical Image Registration Using a Randomly-Initialized CNN as Regularization Prior** (arXiv, 2019), Simonovsky et al., [pdf](https://arxiv.org/pdf/1804.10735.pdf)
+
+## Weakly-supervised approaches
+- **Weakly-supervised convolutional neural networks for multimodal image registration** (Medical Image Analysis, 2018), Yipeng et al., [pdf](https://reader.elsevier.com/reader/sd/pii/S1361841518301051?token=14B39E833761D7ACEA7B771AE4537F3D4009E4ABFCE06841404B79E19FCF241DCC3CD1B4138EDEB091378AEE033DC01E)
+
+## Metric learning
+- **A Deep Metric for Multimodal Registration** (arXiv, 2019), Lau et al., [arXiv](https://hal.archives-ouvertes.fr/hal-01576914/document)
+- **PCANet-Based Structural Representation forNonrigid Multimodal Medical Image Registration** (Sensors, 2019), Zhu et al., [pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5982469/pdf/sensors-18-01477.pdf)
+
+
+
 
 
 # Software
