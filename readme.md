@@ -19,6 +19,12 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 ## Weakly-supervised approaches
 - **Weakly-supervised convolutional neural networks for multimodal image registration** (Medical Image Analysis, 2018), Yipeng et al., [pdf](https://reader.elsevier.com/reader/sd/pii/S1361841518301051?token=14B39E833761D7ACEA7B771AE4537F3D4009E4ABFCE06841404B79E19FCF241DCC3CD1B4138EDEB091378AEE033DC01E)
 
+## Weakly-supervised approaches (segmentation labels)
+- Y. Hu, M. Modat, E. Gibson, W. Li, N. Ghavami, E. Bonmati, G. Wang,S. Bandula, C. M. Moore, M. Embertonet al., “Weakly-supervised con-volutional neural networks for multimodal image registration,”Medicalimage analysis, vol. 49, pp. 1–13, 2018.[44]  - Y.  Hu,  M.  Modat,  E.  Gibson,  N.  Ghavami,  E.  Bonmati,  C.  M.  Moore,M.  Emberton,  J.  A.  Noble,  D.  C.  Barratt,  and  T.  Vercauteren,  “Label-driven  weakly-supervised  learning  for  multimodal  deformable  imageregistration,”  inBiomedical  Imaging  (ISBI  2018),  2018  IEEE  15thInternational Symposium on.
+
+
+
+
 ## Metric learning
 - **A Deep Metric for Multimodal Registration** (arXiv, 2019), Lau et al., [arXiv](https://hal.archives-ouvertes.fr/hal-01576914/document)
 - **PCANet-Based Structural Representation forNonrigid Multimodal Medical Image Registration** (Sensors, 2019), Zhu et al., [pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5982469/pdf/sensors-18-01477.pdf)
