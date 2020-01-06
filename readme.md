@@ -31,6 +31,7 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 - [PapersWithCode: Medical Image registration](https://paperswithcode.com/task/medical-image-registration/)
 - [PapersWithCode: Image registration](https://paperswithcode.com/task/image-registration/)
 - [Shawn Yuen's list](https://github.com/shawnyuen/DeepLearningInMedicalImagingAndMedicalImageAnalysis/)
+- [Awesome GANs in medical image analysis](https://github.com/xinario/awesome-gan-for-medical-imaging/)
 
 
 
