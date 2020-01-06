@@ -28,7 +28,8 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 
 
 # Software
-- [PapersWithCode](https://paperswithcode.com/task/medical-image-registration/)
+- [PapersWithCode: Medical Image registration](https://paperswithcode.com/task/medical-image-registration/)
+- [PapersWithCode: Image registration](https://paperswithcode.com/task/image-registration/)
 ## FOSS Applications
 
 - [Inviwo](https://inviwo.org/)
