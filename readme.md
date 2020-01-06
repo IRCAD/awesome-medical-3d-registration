@@ -18,7 +18,7 @@ A curated list of awesome 3D medical image registration algorithms, articles, so
 
 ## Libraries and SDKs
 
-- [VTK](https://www.vtk.org)
+- [ANTs](http://stnava.github.io/ANTs/)
 - [sight](https://github.com/IRCAD-IHU/sight)
 
 # Resources
